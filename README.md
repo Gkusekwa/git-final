@@ -1,2 +1,2 @@
 # git-final
-Final Git project
+Final Git project rocks
